@@ -1,0 +1,7 @@
+div {
+  height: 50px;
+  border:1px solid black
+}
+div#chart_area {
+  height: 100px;
+}
